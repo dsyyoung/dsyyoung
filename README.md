@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 Student at [NUS 🦁](https://nus.edu.sg)
+
+📚 Interested in natual languages (not programming languages)
